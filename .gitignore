@@ -1,0 +1,5 @@
+# Project exclude paths
+/.maven/
+/build/
+/build/classes/java/main/
+/.idea/
